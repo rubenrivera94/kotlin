@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Evaluacion  1</string>
+    <string name="calcular">Calcular</string>
+    <string name="volver">Volver</string>
+    <string name="hint_sueldo_bruto">Sueldo Bruto</string>
+    <string name="titulo_calculo_empleados">Cálculo de Empleados con Contrato</string>
+    <string name="resultado_pago_liquido">Pago líquido: %.2f</string>
+    <string name="mensaje_sueldo_invalido">Ingrese un sueldo válido</string>
+</resources>
